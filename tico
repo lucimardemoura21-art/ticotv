@@ -8,46 +8,6 @@ http://64.31.56.17:14006
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&amp;s",AMC HD
 http://64.31.43.170:14011
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&amp;s",AMC SD
-http://38.91.101.235:14044
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 1 | 4K UHD
-http://142.202.48.96:14002
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 2 | SD
-http://142.202.48.96:14007
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 38 | UHD
-http://184.154.244.69:14300
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 40 | FULL HD
-http://184.154.244.69:14325
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 42 | 720P
-http://184.154.244.71:14352
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 43 | FHD
-http://184.154.244.69:14346
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 44 | 4K
-http://184.154.244.69:14356
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 45 | 4K
-http://184.154.244.69:14360
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 46 | FHD
-http://184.154.244.69:14368
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 47 | HD
-http://184.154.244.69:14367
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 48 | FHD
-http://184.154.244.69:14349
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 49 | 4K
-http://184.154.244.69:14370
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 52 | HD
-http://184.154.244.69:14365
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 56 | 1080P
-http://184.154.244.69:14359
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 57 | 4K UHD
-http://184.154.244.69:14361
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 59 | 720P
-http://184.154.244.69:14362
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 61 | QHD
-http://184.154.244.69:14363
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 63 | 1080P
-http://184.154.244.69:14364
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 65 | 4K UHD
-http://184.154.244.69:14352
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 80 | 720P
 http://134.195.198.183:14720
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTS-QXRbMtYJMFFy9sI1BupNAKbb1lcOPX4_yQk5tMaX2.png",AXN FHD
 http://64.31.43.170:14023
@@ -507,6 +467,40 @@ http://64.31.47.118:14000
 http://79.127.243.211:14623/
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTSekTfixuHTDxU6jDHLOwO-49S-nPzD9tjsD9JGj2za0.png",BR â€¢ Band Sports FHD
 http://184.154.244.71:14051
-#EXTINF:-1  tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/nova-identidade-visual-globo.jpg",TV UNIVERSAL HD
-http://79.127.243.211:14623/
-
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 1 | 4K UHD
+http://142.202.48.96:14002
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 2 | SD
+http://142.202.48.96:14007
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 38 | UHD
+http://184.154.244.69:14300
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 40 | FULL HD
+http://184.154.244.69:14325
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 42 | 720P
+http://184.154.244.71:14352
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 43 | FHD
+http://184.154.244.69:14346
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 44 | 4K
+http://184.154.244.69:14356
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 45 | 4K
+http://184.154.244.69:14360
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 46 | FHD
+http://184.154.244.69:14368
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 47 | HD
+http://184.154.244.69:14367
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 48 | FHD
+http://184.154.244.69:14349
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 49 | 4K
+http://184.154.244.69:14370
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 52 | HD
+http://184.154.244.69:14365
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 56 | 1080P
+http://184.154.244.69:14359
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 57 | 4K UHD
+http://184.154.244.69:14361
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 59 | 720P
+http://184.154.244.69:14362
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 61 | QHD
+http://184.154.244.69:14363
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 63 | 1080P
+http://184.154.244.69:14364
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 65 | 4K UHD
