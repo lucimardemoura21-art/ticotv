@@ -3,8 +3,6 @@
 http://38.128.66.208:14040
 #EXTINF:-1 tvg-id="a-e-canal-1" tvg-name="A&amp;E canal 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🔵 CANAIS  📺 A&amp;E",A&E canal 1
 http://69.162.69.190:14002
-#EXTINF:-1 tvg-id="a-e-canal-2" tvg-name="A&amp;E canal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🔵 CANAIS  📺 A&amp;E",A&E canal 2
-http://169.197.140.199:14068
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTevjqeUo7JIUQCLnQ37bzBsTc7ETnkidGTJO4iz4Wh2q.png",AMC FHD
 http://184.154.244.71:14084
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTevjqeUo7JIUQCLnQ37bzBsTc7ETnkidGTJO4iz4Wh2q.png",AMC HD
