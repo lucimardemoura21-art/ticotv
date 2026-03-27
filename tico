@@ -9,6 +9,8 @@ http://184.154.244.71:14084
 http://64.31.56.17:14006
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&amp;s",AMC SD
 http://38.91.101.235:14044
+#EXTINF:-1 tvg-id="axn-1" tvg-name="AXN 1" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png" group-title="🔵 CANAIS  🎬 AXN",AXN 1
+http://89.187.185.88:14085
 #EXTINF:-1  tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png",AXN FU-HD
 http://79.127.243.211:14569
 #EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 3
