@@ -13,8 +13,6 @@ http://38.91.101.235:14044
 http://89.187.185.88:14085
 #EXTINF:-1  tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png",AXN FU-HD
 http://79.127.243.211:14569
-#EXTINF:-1 tvg-id="globo-canal-1" tvg-name="GLOBO canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 1
-http://167.17.64.200:14037
 #EXTINF:-1 tvg-id="globo-canal-2" tvg-name="GLOBO canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 2
 http://66.163.113.120:14014
 #EXTINF:-1 tvg-id="globo-canal-3" tvg-name="GLOBO canal 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 3
