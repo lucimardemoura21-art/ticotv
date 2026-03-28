@@ -9,6 +9,10 @@ http://184.154.244.71:14084
 http://64.31.56.17:14006
 #EXTINF:-1 tvg-id="axn-1" tvg-name="AXN 1" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png" group-title="🔵 CANAIS  🎬 AXN",AXN 1
 http://89.187.185.88:14085
+#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTWEegK4F2_srg68zM96ImfTouG_4742iGeuYfMuTDzR2.png",Cinemax FHD
+http://185.246.208.74:14915
+#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTebi3kiP7LRuGs3jMZFx5ciw4IFJnJvdYuU4NMeHbsKn.png",Megapix FHD
+http://79.127.238.228:14592
 #EXTINF:-1  tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png",AXN FU-HD
 http://79.127.243.211:14569
 #EXTINF:-1 tvg-id="globo-canal-2" tvg-name="GLOBO canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 2
@@ -263,10 +267,6 @@ http://89.187.190.167:14107
 http://89.187.190.167:14116
 #EXTINF:-1  tvg-logo="https://od.lk/s/ODFfODE2MjQxMTNf/tnt%20novelas.jpg",TNT NOVELAS FHD
 http://185.246.208.74:14941
-#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTWEegK4F2_srg68zM96ImfTouG_4742iGeuYfMuTDzR2.png",Cinemax FHD
-http://185.246.208.74:14915
-#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTebi3kiP7LRuGs3jMZFx5ciw4IFJnJvdYuU4NMeHbsKn.png",Megapix FHD
-http://79.127.238.228:14592
 #EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQyMDJf/iurd.png",TV UNIVERSAL HD
 http://79.127.243.211:14623/
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTSekTfixuHTDxU6jDHLOwO-49S-nPzD9tjsD9JGj2za0.png",BR â€¢ Band Sports FHD
