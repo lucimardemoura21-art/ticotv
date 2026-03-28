@@ -19,6 +19,8 @@ http://167.17.64.200:14056
 http://64.31.56.17:14166
 #EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzJf/globonews1.png",Globo News FHD
 http://79.127.238.228:14093
+#EXTINF:-1  tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png",BAND SD
+http://184.154.244.75:14000
 #EXTINF:-1 tvg-id="sbt-canal-1" tvg-name="SBT canal 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&amp;path-prefix=pt-br" group-title="🟢 CANAL  ▶️ SBT",SBT canal 1
 http://169.197.140.199:14072
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVCzm4_ZHnel1vduhZuAdh1GXoys3udwQOA&s",SBT KIDS HD
@@ -31,22 +33,6 @@ http://79.127.238.228:14157
 http://38.68.134.81:14062
 #EXTINF:-1  tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",PREMIERE canal 2
 http://184.154.244.75:14408
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 3
-http://209.131.123.153:14025
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 5
-http://209.131.123.153:14030
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 6
-http://209.131.123.153:14021
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 8
-http://209.131.123.153:14024
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 9
-http://209.131.123.153:14026
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 10
-http://209.131.123.153:14027
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 11
-http://209.131.123.153:14028
-#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 12
-http://209.131.123.153:14032
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTezz-u1bb9kUMnkXQl_v8yZ4pGkJY-AwNfa1sq0DMB6x.png",Cartoon Network FHD
 http://79.127.238.249:14460
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTezz-u1bb9kUMnkXQl_v8yYuxGRDyG6erYcLa4pUzqCn.png",Cartoonito FHD
@@ -281,8 +267,6 @@ http://89.187.190.167:14107
 http://89.187.190.167:14116
 #EXTINF:-1  tvg-logo="https://od.lk/s/ODFfODE2MjQxMTNf/tnt%20novelas.jpg",TNT NOVELAS FHD
 http://185.246.208.74:14941
-#EXTINF:-1  tvg-logo="https://img.hotice.site/icones_channels/BAND_HDTV.png",BAND SD
-http://184.154.244.75:14000
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTWEegK4F2_srg68zM96ImfTouG_4742iGeuYfMuTDzR2.png",Cinemax FHD
 http://185.246.208.74:14915
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTebi3kiP7LRuGs3jMZFx5ciw4IFJnJvdYuU4NMeHbsKn.png",Megapix FHD
@@ -389,3 +373,19 @@ http://79.127.238.228:14172
 http://79.127.238.228:14175
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 226 | 720P
 http://79.127.238.228:14173
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 3
+http://209.131.123.153:14025
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 5
+http://209.131.123.153:14030
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 6
+http://209.131.123.153:14021
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 8
+http://209.131.123.153:14024
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 9
+http://209.131.123.153:14026
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 10
+http://209.131.123.153:14027
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 11
+http://209.131.123.153:14028
+#EXTINF:-1  tvg-logo="https://jpimg.com.br/uploads/2026/01/imagem-jvp-2026-01-06t134109.679-750x450.png",BBB 26 VIPER 12
+http://209.131.123.153:14032
