@@ -15,6 +15,12 @@ http://79.127.243.211:14569
 http://66.163.113.120:14014
 #EXTINF:-1 tvg-id="globo-canal-3" tvg-name="GLOBO canal 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 3
 http://167.17.64.200:14056
+#EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzJf/globonews1.png",Globo News FHD
+http://79.127.238.228:14093
+#EXTINF:-1 tvg-id="sbt-canal-1" tvg-name="SBT canal 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&amp;path-prefix=pt-br" group-title="🟢 CANAL  ▶️ SBT",SBT canal 1
+http://169.197.140.199:14072
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVCzm4_ZHnel1vduhZuAdh1GXoys3udwQOA&s",SBT KIDS HD
+http://130.250.189.44:14825
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Premiere_logo.svg/512px-Premiere_logo.svg.png",PREMIERE EUA BR 3 | 720P
 http://208.115.232.135:14309
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTTxHvMzOXqImN_STVADUmVhJQBd9IPhSAdnRhxlfAQLU.png",Premiere 4 FHD
@@ -63,80 +69,13 @@ http://74.91.24.180:16098
 http://184.154.244.71:14076
 #EXTINF:-1  tvg-logo="https://od.lk/s/ODFfODE2MjQ0NjJf/redevida.png",Rede Vida HD
 http://46.151.196.223:14244
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVCzm4_ZHnel1vduhZuAdh1GXoys3udwQOA&s",SBT KIDS HD
-http://130.250.189.44:14825
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Plus_logo.svg/512px-Disney_Plus_logo.svg.png",DISNEY+ canal 2 | 1080P
 http://184.154.244.68:14202
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Plus_logo.svg/512px-Disney_Plus_logo.svg.png",DISNEY+ canal 7 | SD
 http://79.127.243.211:14510
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 10 | 1080P
-http://209.131.123.153:14362
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 11 | 4K UHD
-http://64.31.56.17:14015
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 15 | 1440P
-http://184.154.244.71:14090
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 24 | 1440P
-http://64.31.43.170:14668
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 25 | SD
-http://64.31.43.170:14666
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 26 | 1080P
-http://64.31.43.170:14709
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 27 | 1080P
-http://64.31.43.170:14669
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 28 | SD
-http://64.31.43.170:14667
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 47 | UHD
-http://184.154.244.71:14423
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 51 | SD
-http://134.195.198.183:14716
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 52 | UHD
-http://38.68.134.81:14075
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 53 | FHD
-http://209.131.123.153:14356
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 54 | FULL HD
-http://38.68.134.81:14162
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 61 | HD
-http://167.17.67.77:14348
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 71 | 1440P
-http://184.154.244.75:14088
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 72 | 4K
-http://184.154.244.75:14013
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 81 | SD
-http://209.131.123.153:14877
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 197 | FHD
-http://64.31.42.166:14696
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 198 | UHD
-http://64.31.42.166:14665
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 199 | 1440P
-http://64.31.42.166:14663
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 200 | FULL HD
-http://64.31.43.170:14756
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 203 | FHD
-http://64.31.42.166:14662
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 211 | QHD
-http://167.17.64.99:14023
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 213 | FULL HD
-http://67.220.71.231:16012
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 215 | FULL HD
-http://74.91.24.182:16065
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 216 | QHD
-http://167.17.64.200:16380
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 217 | 4K UHD
-http://67.220.71.231:16387
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 218 | HD
-http://167.17.64.99:17006
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 219 | UHD
-http://79.127.243.211:14027
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 224 | 1440P
-http://79.127.238.228:14172
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 225 | SD
-http://79.127.238.228:14175
-#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 226 | 720P
-http://79.127.238.228:14173
+
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/uXF9wnIkLipSnEmrOhCJ5DDjzFtpNKiQ0oW2RC2Cxw82xziDe1bQ4x4k9eC-Z3JwyppIh6imwtiZzRjJSfYqJdUn86ENmcYQOmI1U3XkudB6w-BPvYA3a9RkwjNhhRtLsn61GLdHY61elHT5obq0ae67m6AdMczlyURnq_325Pc.png",Globo SP Capital FHD
 http://64.31.56.17:14166
-#EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzJf/globonews1.png",Globo News FHD
-http://79.127.238.228:14093
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/3723/3723663.png",CANAL GOSPEL FU-HD
 http://184.154.244.68:14043
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/3723/3723663.png",CANAL GOSPEL BR
@@ -387,3 +326,67 @@ http://184.154.244.69:14364
 http://184.154.244.69:14352
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/188/188987.png",ANIME / DESENHOS 80 | 720P
 http://134.195.198.183:14720
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 10 | 1080P
+http://209.131.123.153:14362
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 11 | 4K UHD
+http://64.31.56.17:14015
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 15 | 1440P
+http://184.154.244.71:14090
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 24 | 1440P
+http://64.31.43.170:14668
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 25 | SD
+http://64.31.43.170:14666
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 26 | 1080P
+http://64.31.43.170:14709
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 27 | 1080P
+http://64.31.43.170:14669
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 28 | SD
+http://64.31.43.170:14667
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 47 | UHD
+http://184.154.244.71:14423
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 51 | SD
+http://134.195.198.183:14716
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 52 | UHD
+http://38.68.134.81:14075
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 53 | FHD
+http://209.131.123.153:14356
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 54 | FULL HD
+http://38.68.134.81:14162
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 61 | HD
+http://167.17.67.77:14348
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 71 | 1440P
+http://184.154.244.75:14088
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 72 | 4K
+http://184.154.244.75:14013
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 81 | SD
+http://209.131.123.153:14877
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 197 | FHD
+http://64.31.42.166:14696
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 198 | UHD
+http://64.31.42.166:14665
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 199 | 1440P
+http://64.31.42.166:14663
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 200 | FULL HD
+http://64.31.43.170:14756
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 203 | FHD
+http://64.31.42.166:14662
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 211 | QHD
+http://167.17.64.99:14023
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 213 | FULL HD
+http://67.220.71.231:16012
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 215 | FULL HD
+http://74.91.24.182:16065
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 216 | QHD
+http://167.17.64.200:16380
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 217 | 4K UHD
+http://67.220.71.231:16387
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 218 | HD
+http://167.17.64.99:17006
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 219 | UHD
+http://79.127.243.211:14027
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 224 | 1440P
+http://79.127.238.228:14172
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 225 | SD
+http://79.127.238.228:14175
+#EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png",CANAIS FILMES canal 226 | 720P
+http://79.127.238.228:14173
