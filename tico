@@ -7,8 +7,6 @@ http://69.162.69.190:14002
 http://184.154.244.71:14084
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTevjqeUo7JIUQCLnQ37bzBsTc7ETnkidGTJO4iz4Wh2q.png",AMC HD
 http://64.31.56.17:14006
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&amp;s",AMC SD
-http://38.91.101.235:14044
 #EXTINF:-1 tvg-id="axn-1" tvg-name="AXN 1" tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png" group-title="🔵 CANAIS  🎬 AXN",AXN 1
 http://89.187.185.88:14085
 #EXTINF:-1  tvg-logo="https://cdn.telaviva.com.br/wp-content/uploads/2016/02/Novo-logo-AXN.png",AXN FU-HD
