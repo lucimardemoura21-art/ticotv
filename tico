@@ -38,6 +38,34 @@ http://79.127.238.228:14157
 http://38.68.134.81:14062
 #EXTINF:-1  tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png",PREMIERE canal 2
 http://184.154.244.75:14408
+#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTXzWnOgCqVuhCFLMtK9aP1r9gTuEBsgOTCOiuGDOKxp0.png",SporTV 2 FHD
+http://38.68.134.81:14041
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV HD | 1440P | UHD
+http://38.68.134.81:14042
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV 4K | 720P | 1440P
+http://89.187.190.167:14040
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV ALT FHD | 4K | QHD
+http://64.31.43.170:14047
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE HD | SD | 4K
+http://209.131.123.153:14374
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV BACKUP FHD | 1080P | 1440P
+http://184.154.244.71:14031
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE 4K | UHD | QHD
+http://167.17.64.65:14323
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV ALT 4K | SD | 1080P
+http://184.154.244.68:14960
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV EXTRA FHD | 1080P | FULL HD
+http://184.154.244.68:14201
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV BACKUP 4K | 4K UHD | 1440P
+http://74.91.24.178:16118
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE SD | QHD | 720P
+http://69.162.69.190:16309
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV EXTRA SD | 1440P | FULL HD
+http://74.91.24.181:16300
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV HD ALT | 720P | SD
+http://67.220.71.231:16567
+#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV SD ALT | UHD | FULL HD
+http://167.17.64.200:14432
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTezz-u1bb9kUMnkXQl_v8yZ4pGkJY-AwNfa1sq0DMB6x.png",Cartoon Network FHD
 http://79.127.238.249:14460
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTezz-u1bb9kUMnkXQl_v8yYuxGRDyG6erYcLa4pUzqCn.png",Cartoonito FHD
@@ -186,34 +214,6 @@ http://89.37.117.235:16301
 http://185.152.67.187:14007
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/25/2/sbt-logo-png_seeklogo-252496.png",SBT QHD
 http://79.127.243.211:14095
-#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTXzWnOgCqVuhCFLMtK9aP1r9gTuEBsgOTCOiuGDOKxp0.png",SporTV 2 FHD
-http://38.68.134.81:14041
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV HD | 1440P | UHD
-http://38.68.134.81:14042
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV 4K | 720P | 1440P
-http://89.187.190.167:14040
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV ALT FHD | 4K | QHD
-http://64.31.43.170:14047
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE HD | SD | 4K
-http://209.131.123.153:14374
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV BACKUP FHD | 1080P | 1440P
-http://184.154.244.71:14031
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE 4K | UHD | QHD
-http://167.17.64.65:14323
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV ALT 4K | SD | 1080P
-http://184.154.244.68:14960
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV EXTRA FHD | 1080P | FULL HD
-http://184.154.244.68:14201
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV BACKUP 4K | 4K UHD | 1440P
-http://74.91.24.178:16118
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV LIVE SD | QHD | 720P
-http://69.162.69.190:16309
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV EXTRA SD | 1440P | FULL HD
-http://74.91.24.181:16300
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV HD ALT | 720P | SD
-http://67.220.71.231:16567
-#EXTINF:-1  tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-7-1.png",SPORTIV SD ALT | UHD | FULL HD
-http://167.17.64.200:14432
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/uXF9wnIkLipSnEmrOhCJ5P-7GDmF5_UPFRxYmj1U475p6STfmolzcaTcHYuQgN-Wu2Ut2yiyjVamynmKKrnIeWo3LgOsSrB6ohwk_4kbFTZdd4Tl0TViFX1w0ivcgphk.png",TV Cultura FHD
 http://184.154.244.75:14060
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTalu7EDAzX4BvzlCi_suPzVOnGCfdzGYZdJR13qkRgRm.png",Telecine Action FHD
