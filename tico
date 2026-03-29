@@ -3,18 +3,17 @@ http://66.163.113.120:14014
 #EXTINF:-1 tvg-id="globo-canal-3" tvg-name="GLOBO canal 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/TVGlobo2025.png/revision/latest?cb=20250403003551" group-title="🟢 CANAL  ▶️ GLOBO",GLOBO canal 3
 http://167.17.64.200:14056
 #EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzJf/globonews1.png",Globo News FHD
+
 #EXTINF:-1 tvg-id="sbt-canal-1" tvg-name="SBT canal 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&amp;path-prefix=pt-br" group-title="🟢 CANAL  ▶️ SBT",SBT canal 1
 http://169.197.140.199:14072
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyVCzm4_ZHnel1vduhZuAdh1GXoys3udwQOA&s",SBT KIDS HD
 http://130.250.189.44:14825
-#EXTINF:-1  tvg-logo="https://od.lk/s/NzdfNTg1NjQxMzJf/globonews1.png",Globo News FHD
-http://79.127.238.228:14093
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/uXF9wnIkLipSnEmrOhCJ5DDjzFtpNKiQ0oW2RC2Cxw82xziDe1bQ4x4k9eC-Z3JwyppIh6imwtiZzRjJSfYqJdUn86ENmcYQOmI1U3XkudB6w-BPvYA3a9RkwjNhhRtLsn61GLdHY61elHT5obq0ae67m6AdMczlyURnq_325Pc.png",Globo SP Capital FHD
 http://64.31.56.17:14166
-#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTf4QGq8QNkzZqPCkIjsLkjAyIcQzf-Isg3CTafK4KMjV.png",A&E FHD
-http://38.128.66.208:14040
 #EXTINF:-1 tvg-id="a-e-canal-1" tvg-name="A&amp;E canal 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="🔵 CANAIS  📺 A&amp;E",A&E canal 1
 http://69.162.69.190:14002
+#EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTf4QGq8QNkzZqPCkIjsLkjAyIcQzf-Isg3CTafK4KMjV.png",A&E FHD
+http://38.128.66.208:14040
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTevjqeUo7JIUQCLnQ37bzBsTc7ETnkidGTJO4iz4Wh2q.png",AMC FHD
 http://184.154.244.71:14084
 #EXTINF:-1  tvg-logo="http://rushdev.top:80/images/U6uRBfw-st2fKU_BzEqkTevjqeUo7JIUQCLnQ37bzBsTc7ETnkidGTJO4iz4Wh2q.png",AMC HD
